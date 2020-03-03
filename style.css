@@ -1,5 +1,6 @@
 .container {
     border: 0.5px dashed black;
+    background-color: whitesmoke;
     display: block;
     padding-left: 30px;
     padding-right: 50px;
