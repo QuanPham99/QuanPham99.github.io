@@ -1,6 +1,10 @@
 .container {
     border: 0.5px dashed black;
     display: block;
+    padding-left: 30px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    scroll-padding-top: 10px;
 }
 
 .header {
@@ -13,4 +17,13 @@
     margin-left: auto;
     margin-right: auto;
     width: 30%;
+}
+
+
+.PE{
+   display: flex; 
+}
+
+.column {
+    flex: 25%;
 }
